@@ -5,11 +5,17 @@
 
 Файл: BG_Administrative_unicef_20221012_gpkg
 Формат: Geopackage
+
 Тип: Векторен (полигони)
+
 Координатна система: EPSG:32635 – WGS 84 / UTM zone 35N
+
 Първичен източник: UNICEF
+
 Източник на данните: The Humanitarian Data Exchange https://data.humdata.org/dataset/cod-ab-bgr
+
 Данни вълидни към дата: 12.10.2022 г.
+
 
 Описание на слоевете в базата данни:
 
