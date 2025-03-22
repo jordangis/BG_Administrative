@@ -4,6 +4,7 @@
 Описание на данните.
 
 Файл: BG_Administrative_unicef_20221012_gpkg
+
 Формат: Geopackage
 
 Тип: Векторен (полигони)
