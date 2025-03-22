@@ -15,7 +15,7 @@
 
 Източник на данните: The Humanitarian Data Exchange https://data.humdata.org/dataset/cod-ab-bgr
 
-Данни вълидни към дата: 12.10.2022 г.
+Данни валидни към дата: 12.10.2022 г.
 
 
 Описание на слоевете в базата данни:
